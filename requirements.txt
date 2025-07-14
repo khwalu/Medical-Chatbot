@@ -1,0 +1,14 @@
+sentence-transformers
+langchain
+fastapi
+uvicorn
+langchain_huggingface
+pypdf
+python-dotenv
+langchain-pinecone
+langchain-community
+langchain-openai
+langchain_google_genai
+pinecone 
+dotenv
+-e .
